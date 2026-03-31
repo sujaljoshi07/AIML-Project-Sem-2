@@ -74,10 +74,10 @@ resume-analyzer/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/resume-analyzer.git
+git clone https://github.com/sujaljoshi07/resume-analyzer.git
 cd resume-analyzer
 
-### 2️⃣Backend Setup
+1️⃣ Backend Setup
 
 cd backend
 pip install flask flask-cors PyPDF2
@@ -86,7 +86,7 @@ python app.py
 Backend runs at:
 http://127.0.0.1:5000
 
-###3️⃣ Frontend Setup
+2️⃣ Frontend Setup
 
 Frontend runs at:
 http://localhost:3000
